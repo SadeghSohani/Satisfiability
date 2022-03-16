@@ -1,0 +1,1 @@
+(%x or %y) and (%w or not %l) and (not %z or not %r)
